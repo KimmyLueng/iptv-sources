@@ -87,7 +87,7 @@
 | 81 | [BD]内黄新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8> |
 | 82 | [BD]兵团卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8> |
 | 83 | [HD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv> |
-| 84 | [BD]动漫秀场 | stream1.freetv.fun | <https://stream1.freetv.fun/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.m3u8> |
+| 84 | [BD]动漫秀场 | stream1.freetv.fun | <https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.ctv> |
 | 85 | [BD]北京卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8> |
 | 86 | [HD]十堰新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797cf4cd5b6402.m3u8> |
 | 87 | [HD]十堰经济 | stream1.freetv.fun | <https://stream1.freetv.fun/ee00033c62a5696b97d3522d93bb515c860a3d176e3639e1c118f5b2fe1dee2f.m3u8> |
@@ -158,18 +158,18 @@
 | 152 | [SD]承德新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
 | 153 | [BD]康巴卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/af2dac39927b833bcb5a0370424a07acf05f48fd8a33421bb934e39ba4a3cf92.ctv> |
 | 154 | [SD]厦门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8> |
-| 155 | [BD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/00f34b5229acb38e8dbacc95349044efca70b8b4ced9d96bf61ff1a55af81d96.ctv> |
-| 156 | [BD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ce2e7e6464d84e68227189b299f83de79aa8d1b15a86d04702efef31854356b2.ctv> |
+| 155 | [BD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/4e7ee35686f9baf8445cf1699050cad59016e631eddd7e480132a1d2979f419b.ctv> |
+| 156 | [SD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/34003b8748136eb630e4eed3e26cf513630bd520371ecf4fdfdc0649c1a8707e.m3u8> |
 | 157 | [BD]广州法治 | stream1.freetv.fun | <https://stream1.freetv.fun/975c8b2276f2cd6a4a21254070cff106922d88ef80d305b7573110623a6f1358.ctv> |
 | 158 | [BD]广州竞赛 | stream1.freetv.fun | <https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8> |
 | 159 | [SD]广州经济 | stream1.freetv.fun | <https://stream1.freetv.fun/cb633ae00983deddbb293117d203ec141079f3ff75903bcc2eb32a4b9f308f7a.m3u8> |
-| 160 | [BD]广州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.ctv> |
+| 160 | [BD]广州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/91ae862b8b3ce7a58fb837900e84984ae323afa312699797c3eb21ac4ff060df.m3u8> |
 | 161 | [BD]广州综合高清 | stream1.freetv.fun | <https://stream1.freetv.fun/1a29c03eed969ceaa65f92da2b800087b6edae7f357ec200bab723183d88b264.ctv> |
 | 162 | [BD]广东公共 | stream1.freetv.fun | <https://stream1.freetv.fun/2e1beb5ba95efad2f4159fd2ae4dd0b64a0e9c1bbf726b0676c658906fba87cc.m3u8> |
 | 163 | [BD]广东少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/cb3e1d8fe708cb08a4b3b6476fdffa8e267e5f8af1c8a52b6068f884c2241131.m3u8> |
-| 164 | [BD]广东影视 | stream1.freetv.fun | <https://stream1.freetv.fun/0e5e1a883fa882ec8428eb963ec6a5ba550bb484275c587fc3ac41494acc96c5.ctv> |
+| 164 | [BD]广东影视 | stream1.freetv.fun | <https://stream1.freetv.fun/cf1cb04544b8324a474a732a218abf171a9a5f5df5d9709f683907682348a2b5.m3u8> |
 | 165 | [BD]广东新闻高清 | stream1.freetv.fun | <https://stream1.freetv.fun/3adf23f7ec8b5e53956a8b896bd4d0abf12e28e17b8ccbdd16afd4a99f497125.m3u8> |
-| 166 | [BD]广东民生 | stream1.freetv.fun | <https://stream1.freetv.fun/d705bf2698d0b56ef2db9514c5bdf14406bd0c7fbdfd887eb3b649750bb83361.ctv> |
+| 166 | [BD]广东公共 | stream1.freetv.fun | <https://stream1.freetv.fun/6795ee00b2fe1c2fa2b8d27afdef839ff08a9f9442be1a54477bfc47a0c75e92.ctv> |
 | 167 | [SD]广东珠江 | stream1.freetv.fun | <https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8> |
 | 168 | [SD]广东珠江 | stream1.freetv.fun | <https://stream1.freetv.fun/9b197f10a84e5a16697ed4669f062e2ad9f69c901d933a50b1a6a9684ef8dfa6.ctv> |
 | 169 | [SD]广东移动 | stream1.freetv.fun | <https://stream1.freetv.fun/23d6b5b9a57668589dd649f7ba7a4a47221287eafd55b0f74ecbfc3573c802be.ctv> |
@@ -189,13 +189,13 @@
 | 183 | [BD]广西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8> |
 | 184 | [BD]广西都市 | stream1.freetv.fun | <https://stream1.freetv.fun/ae3d3280f53207850f9680fb5b490dde80ba29c95db39f5c6bb69212c1e48a64.m3u8> |
 | 185 | [SD]广西都市 | stream1.freetv.fun | <https://stream1.freetv.fun/da80c8e8061d4d314ae4333bf2c9fbe53d04cbfbb32deb66fa6a7b45636d6a37.ctv> |
-| 186 | [HD]延边卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/24327018edd6090d5d0fdcd7966a0902b684df2132f9a4d8307bbb1d6afb84fd.m3u8> |
+| 186 | [HD]延边卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/bd9989061bb69326d2d44cf9c4b26cf9dec60f6a10aaf141fea682fa3b307f13.m3u8> |
 | 187 | [BD]揭阳公共 | stream1.freetv.fun | <https://stream1.freetv.fun/5ad596704a7981da0e17e48a8a790aff4e394469f57dd00e683d70329a79769f.m3u8> |
 | 188 | [BD]揭阳综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e90f502e55cbf9bc85df6c5006a78aea592a1509a1aed9c671439e216cfc0413.m3u8> |
 | 189 | [SD]教育 | stream1.freetv.fun | <https://stream1.freetv.fun/4be3044a2bbaaa8ff1b4c8131e79b35c3e7c7685c985c0d20541306edd5a528c.ctv> |
 | 190 | [SD]教育 | stream1.freetv.fun | <https://stream1.freetv.fun/677a8b4612dc62ffc354771d48c1bbe57b941cb5ca9b69c0bc52ef22a3b69ca6.m3u8> |
 | 191 | [SD]新疆卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8> |
-| 192 | [BD]新视觉 | stream1.freetv.fun | <https://stream1.freetv.fun/7eaac7065ca298a324ccaddb807338d54e2298e655a990b21f75ea0949f52dc0.m3u8> |
+| 192 | [BD]新视觉高清 | stream1.freetv.fun | <https://stream1.freetv.fun/08dc5428ae1bfe509a59e246226b11e2782b197f0db7a0e78391c0561262119e.m3u8> |
 | 193 | [BD]新野新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8> |
 | 194 | [VGA]新乡县电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/6cc7c99efefc3de2dcee1a92628db8facaf5ec8ccf3f2e36496cf3f412499a9f.m3u8> |
 | 195 | [SD]昆明影视 | stream1.freetv.fun | <https://stream1.freetv.fun/5bc66ab29db2a4885d13a59a3e994822964f54be1c733a62ff9f3ac55097ec01.m3u8> |
@@ -231,14 +231,14 @@
 | 225 | [BD]汕头3影视文艺 | stream1.freetv.fun | <https://stream1.freetv.fun/bf1848e22638c5d9fa6d54b42f9c55079355e530b61019a8981352c38c0a5d6c.ctv> |
 | 226 | [BD]新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8> |
 | 227 | [SD]经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/2822f717206998d208a5c53de4c3080dcd28bfd9c4ac607fd9963569f520e30b.m3u8> |
-| 228 | [BD]汕头综合高清 | stream1.freetv.fun | <https://stream1.freetv.fun/eb451f6910cebe8fdb7eee5614628292b82a5ce8b32b1c27327f4f5c7284fc93.ctv> |
+| 228 | [BD]汕头综合高清 | stream1.freetv.fun | <https://stream1.freetv.fun/ad47796a356de5d15134763a853151099633faa1189c386264a5084a0529172f.ctv> |
 | 229 | [BD]浙江公共新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c5a266d693da3b49eb6a86a0e7019f1731826536ba1915a25fbf173c909918da.m3u8> |
 | 230 | [BD]江苏城市 | stream1.freetv.fun | <https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv> |
-| 231 | [BD]江苏影视 | stream1.freetv.fun | <https://stream1.freetv.fun/ff51b87d5cd5bd439c8c794400e57cef00030333c15716915efdb774a013b129.m3u8> |
-| 232 | [BD]江苏教育 | stream1.freetv.fun | <https://stream1.freetv.fun/a6f977fadcee5baf352b6d3e066bb39f40ab669b69b66fadef06e3b75c15ccc0.m3u8> |
+| 231 | [HD]江苏影视 | stream1.freetv.fun | <https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv> |
+| 232 | [HD]江苏教育 | stream1.freetv.fun | <https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv> |
 | 233 | [BD]江苏综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8> |
 | 234 | [BD]江苏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/92ecd8819233648ab6c54f003268dffc50ed25c4831e70026554028fa478d561.m3u8> |
-| 235 | [BD]江苏体育休闲 | stream1.freetv.fun | <https://stream1.freetv.fun/2774b15bf65b63ca7fa60a58f20fe29f3b40c196f507921bca2c726f924ca2c2.m3u8> |
+| 235 | [HD]江苏体育 | stream1.freetv.fun | <https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv> |
 | 236 | [HD]江西公共 | stream1.freetv.fun | <https://stream1.freetv.fun/8f30d15daed386d5c15ab43669d8e28864d599d0b0ab16414e2a5ebce05bb768.m3u8> |
 | 237 | [HD]江西少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/65f99bfb458473e9073db6ea37cfc5d2fb7a1dee730cae523d2807c4e5780e79.m3u8> |
 | 238 | [HD]江西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2cc8dff58a2bbc01b04c59f527ba7d82932c5c4df19c915d2b82363c392ace.m3u8> |
@@ -290,7 +290,7 @@
 | 284 | [SD]深圳卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/20ecf771d6a0c9c6e7099a283186488d8baa598db43ae7e64ada39622eeb930a.m3u8> |
 | 285 | [BD]深圳财经生活 | stream1.freetv.fun | <https://stream1.freetv.fun/176ad6ff7b513a917c3c8edb76e340c47b0decb84db829bad8bf0dbb1c9f15d1.m3u8> |
 | 286 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.m3u8> |
-| 287 | [VGA]深圳电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8> |
+| 287 | [BD]深圳电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8> |
 | 288 | [BD]深圳体育 | stream1.freetv.fun | <https://stream1.freetv.fun/6c86c95760bbb08eecaddec17934828c51b6768b45c2beb62b614bca9a7647c5.m3u8> |
 | 289 | [BD]深圳体育健康 | stream1.freetv.fun | <https://stream1.freetv.fun/2b04ef6fbc904e6d9917574e4d8f138d4cb04e9a6a0a45357c5176f4343c5d7e.m3u8> |
 | 290 | [BD]深圳体育健康高清 | stream1.freetv.fun | <https://stream1.freetv.fun/eacf84c8450570da66b5c93fb5ed759b0756d22a438320220aca5e6e71e75ec9.ctv> |
@@ -394,7 +394,7 @@
 | 388 | [SD]足球 | stream1.freetv.fun | <https://stream1.freetv.fun/5a4c39e11028d432845a53aef51133d102018dcd83c1a31325a7fc66ccd3113d.ctv> |
 | 389 | [SD]农林卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8> |
 | 390 | [BD]连云港新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/99815481bcabc815ef1ac9b61bf4ce074f04392ee862ce0e94ca85937e7cd2d4.m3u8> |
-| 391 | [VGA]连云港新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/045d80238eacbe26e6a10fab68908a34cd55e26fcd729ffd2d618fa7cd4cbe5b.m3u8> |
+| 391 | [BD]连云港新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/045d80238eacbe26e6a10fab68908a34cd55e26fcd729ffd2d618fa7cd4cbe5b.m3u8> |
 | 392 | [HD]运城公共 | stream1.freetv.fun | <https://stream1.freetv.fun/7fa44fad6fafdacff4f8e3a279e1dd471a2a5c78be06214ca012ea605b50983e.m3u8> |
 | 393 | [HD]运城新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/2b7bc040316e5c20670325551e1ee8f3ad0ff2eafd93903390bb5cf817d9e7b0.m3u8> |
 | 394 | [HD]运城科技教育 | stream1.freetv.fun | <https://stream1.freetv.fun/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8> |
@@ -474,4 +474,4 @@
 | 468 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/c54ba741d71c6c3f6c22dc41896aa4d8305e6d66e2faaba5e985415427810291.ctv> |
 | 469 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sat Aug 17 2024 20:11:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 17 2024 22:09:20 GMT+0000 (Coordinated Universal Time)**
