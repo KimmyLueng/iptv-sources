@@ -747,7 +747,7 @@
 | 741 | [BD]ssc news | stream1.freetv.fun | <https://stream1.freetv.fun/ef526c82e19de84c6d4355dbd37e56d9605f7cf2f2228409e611a2b2557334f2.ctv> |
 | 742 | [HD]bbc news arabia | stream1.freetv.fun | <https://stream1.freetv.fun/d88c95e0b68b9d58f926998652b2891bac21732971eaa4d81b8044f077117d8b.m3u8> |
 | 743 | [HD]jitv | stream1.freetv.fun | <https://stream1.freetv.fun/9818b160215dbff8769cee870f959e7ce3c1a9e490be6be018148e091b9a3b89.m3u8> |
-| 744 | [HD]bioskop indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/1a4e1fc5e201f456377f7e1104a2eb3e2fb6675a7e320c5dc8f2bc50a065d421.m3u8> |
+| 744 | [VGA]bioskop indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/1a4e1fc5e201f456377f7e1104a2eb3e2fb6675a7e320c5dc8f2bc50a065d421.m3u8> |
 | 745 | [BD]jazz tv | stream1.freetv.fun | <https://stream1.freetv.fun/014a79496f5995e56ddac4dc3f203e93e196dd4e82d8aee81016521e0ea98908.m3u8> |
 | 746 | [HD]jim | stream1.freetv.fun | <https://stream1.freetv.fun/051528efd98e0b380494cf22ce05e8d405b97b7ac18656abacc6db00e27b442a.m3u8> |
 | 747 | [BD]jordan drama | stream1.freetv.fun | <https://stream1.freetv.fun/206808a1153417c889160b99d9b1a441ed4c03f1a752b5fbbda8d2986455530d.m3u8> |
@@ -1586,7 +1586,7 @@
 | 1580 | [BD]wwe | stream1.freetv.fun | <https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv> |
 | 1581 | [HD]yes network | stream1.freetv.fun | <https://stream1.freetv.fun/2f2ac4ea8eadfd96ea717896d9f60513896871fe526b56ddb446f728f1bb5a96.ctv> |
 | 1582 | [BD]wanasah (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/4f15b29644f01097c624cccbc021cc9d37f0acfb5579b07971506d4476a0a1b4.m3u8> |
-| 1583 | [BD]warner hd | stream1.freetv.fun | <https://stream1.freetv.fun/bcc224fd47992aee60f69565cbd54f7ee40ec6723a143c4fcbd4337eddd6f5c9.m3u8> |
+| 1583 | [BD]warner channel | stream1.freetv.fun | <https://stream1.freetv.fun/4df342569cb96f061363bde01c85d0169434aa9296df71cf034604c506e3a4a1.ctv> |
 | 1584 | [BD]warner tv | stream1.freetv.fun | <https://stream1.freetv.fun/abaed3d03ad94f5dbab2c0193d724d86b5364b2542d98c6a77b07367cefdf4aa.m3u8> |
 | 1585 | [BD]waterbear | stream1.freetv.fun | <https://stream1.freetv.fun/468dda79db5a6859fc9b83462f69c6496dafb5a5d4ff6805da1fb9d0db7159bb.m3u8> |
 | 1586 | [HD]we tv | stream1.freetv.fun | <https://stream1.freetv.fun/2c081ab53f6face92c74deaf2db610e54132988d20a1416210110c9f1590fbcc.ctv> |
@@ -2194,8 +2194,8 @@
 | 2188 | [VGA]陕西生活 | stream1.freetv.fun | <https://stream1.freetv.fun/6ddcdd5dc7a17264b7252fca0b815645a50411adee1a7b0049a49bc578871afb.ctv> |
 | 2189 | [SD]陕西卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8> |
 | 2190 | [BD]陕西西部电影 | stream1.freetv.fun | <https://stream1.freetv.fun/ece7e233926873eb02ea3f6cf87042f8a969f337f275220bc48e0dc0f84dec15.ctv> |
-| 2191 | [BD]陕西都市青春 | stream1.freetv.fun | <https://stream1.freetv.fun/024389305a6ef54c28521b414b472c61bcc418abbcd1d98a3f69d0dbc07642ce.ctv> |
-| 2192 | [BD]陕西体育休闲 | stream1.freetv.fun | <https://stream1.freetv.fun/cf008f25f6cea23257a0646174d436399fe44ffaaec1969de642c3d6e912e753.ctv> |
+| 2191 | [BD]陕西都市青春 | stream1.freetv.fun | <https://stream1.freetv.fun/5e08ee566d1dbe67b82d119f1501bb5efdd2b14b84ad0b51cde48c08b7c0fb08.ctv> |
+| 2192 | [BD]陕西体育休闲 | stream1.freetv.fun | <https://stream1.freetv.fun/1f5de88a215786498482f7ea1b26ace3170d49d9d5ac8693727785cb18df9a67.ctv> |
 | 2193 | [BD]双鸭山新闻[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8> |
 | 2194 | [SD]云南少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/6e47370cd7175196d886950e6c84a05db180a8c52268e0ca0c319b24d3959a47.m3u8> |
 | 2195 | [BD]云南卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/8e20522ff1451cc928501635bcc93064a537c36b910ac91980e23a4e51b509f4.ctv> |
@@ -2235,4 +2235,4 @@
 | 2229 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2230 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Wed Oct 23 2024 16:14:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 23 2024 18:15:15 GMT+0000 (Coordinated Universal Time)**
