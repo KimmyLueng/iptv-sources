@@ -1,7 +1,7 @@
 import { replace_github_raw_proxy_url, collectM3uSource } from "../utils"
 import { handle_m3u, type TSources, converter, ISource } from "./utils"
 
-export const yang_m3u_filter: ISource["filter"] = (
+export const hkdvb_filter: ISource["filter"] = (
     raw,
     caller,
     collectFn
@@ -22,6 +22,6 @@ export const yang_m3u_sources: TSources = [
         name: "HKDVB",
         f_name: "hkdvb",
         url: "https://live.hkdvb.com/hls/playlist.m3u?token=397579992180253",
-        filter: hkvb_filter,
+        filter: hkdvb_filter,
     },
 ]
