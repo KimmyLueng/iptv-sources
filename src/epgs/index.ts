@@ -27,4 +27,9 @@ export const epgs_sources: TEPGSource[] = [
         f_name: "51zmt_df",
         url: "http://epg.51zmt.top:8000/difang.xml",
     },
+    {
+        name: "hkdvb.com",
+        f_name: "hkdvb",
+        url: "https://live.hkdvb.com/epg/full.xml",
+    },
 ]
